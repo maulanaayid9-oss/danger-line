@@ -44,4 +44,7 @@ def main():
     print(Fore.MAGENTA + "\n_-_ Follow Instagram : @ridhocrnv _-_\n")
 
 if __name__ == "__main__":
-    main()
+    main(git clone https://github.com/ridhocrnv/danger-line.git
+cd danger-line
+pip install colorama
+python main.py)
