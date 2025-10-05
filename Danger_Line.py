@@ -21,6 +21,7 @@ def show_lirik(lirik, judul):
 
 def main():
     judul = "\n🎵 Avenged Sevenfold - Danger Line 🎵\n"
+    
 
     lirik_lagu = [
         ("I NEVER MEANT TO LEAVE", "tak pernah ingin kutinggalkan", Fore.CYAN, 1.7),
